@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Doctor Hristo Burdinyashki
+N:Burdinyashki;Hristo;;Doctor;
+EMAIL;TYPE=INTERNET:clinic@b-dent.bg
+item1.TEL:878335889
+item1.X-ABLabel:workMobile
+item2.ORG:B-Dent;;Студентски град\,\nул. Пъстър свят 11а
+item2.X-ABLabel:
+item3.TITLE:Doctor
+item3.X-ABLabel:
+CATEGORIES:Imported on 03/02,myContacts
+END:VCARD

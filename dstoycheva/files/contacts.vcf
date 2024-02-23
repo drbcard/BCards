@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Manager Dilyana Stoycheva
+N:Stoycheva;Dilyana;;Manager;
+EMAIL;TYPE=INTERNET:office@confident.bg
+item1.TEL:359 888 520 015
+item1.X-ABLabel:workMobile
+item2.ORG:Confident;;София\, ул. \"Ангел Кънчев\" 5
+item2.X-ABLabel:
+item3.TITLE:Manager
+item3.X-ABLabel:
+CATEGORIES:Imported on 04/02,myContacts
+END:VCARD

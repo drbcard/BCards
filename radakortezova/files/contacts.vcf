@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Manager Rada Kortezova
+N:Kortezova;Rada;;Manager;
+EMAIL;TYPE=INTERNET:info@valortho.com
+item1.TEL:359 887971207
+item1.X-ABLabel:workMobile
+item2.ORG:Валор;;гр. София\nул. \"Плиска\" №54
+item2.X-ABLabel:
+item3.TITLE:Manager
+item3.X-ABLabel:
+CATEGORIES:Imported on 06/02,myContacts
+END:VCARD
