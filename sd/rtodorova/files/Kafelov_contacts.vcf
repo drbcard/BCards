@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Doctor Bojidar Kafelov
+N:Kafelov;Bojidar;;Doctor;
+EMAIL;TYPE=INTERNET:info@svedent.com
+item1.TEL:0884 179 444
+item1.X-ABLabel:workMobile
+item2.ORG:Svedent;;София\, Лозенец\, ул. Капитан Тодор Ночев 32А
+item2.X-ABLabel:
+item3.TITLE:Doctor
+item3.X-ABLabel:
+CATEGORIES:Imported on 30/01 3,myContacts
+END:VCARD

@@ -1,0 +1,31 @@
+@media only screen and (max-width: 600px) {
+    .head_text {
+        visibility:hidden;
+    }
+}
+.main_body {
+    color: white;
+    background-image: url("./images/head_image2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 98vw;
+    height: 98vh;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.head_text {
+    width: fit-content;
+    height: fit-content;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: 5vw;
+
+}
+
+h1 {
+    align-self: center;
+    font-size: 50px;
+}

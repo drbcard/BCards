@@ -1,11 +1,37 @@
 
-#card-body {
-  visibility:hidden;
+.screen-view {
+  visibility: visible;
+  display: block;
+  background-image: url(../images/head_image2.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  display: table-cell;
+  vertical-align: middle;
+  color: white;
+  align-items: center;
+  align-content: center;
+  text-align: right;
+  margin-left: auto;
+}
+
+.screen-view h2 {
+  align-self: center;
+  font-size: 50px;
+  margin-right: 10vw;
 }
 
 @media only screen and (max-width: 600px) {
+  .screen-view {
+    visibility: hidden;
+    display: none;
+  }
+
   #card-body {
-    visibility:visible;
+    visibility: visible;
+    display: block;
+    height: 100vh;
   }
   
   body {
