@@ -50,8 +50,7 @@
   }
 
   .card {
-    background: rgb(42,136,200);
-    background: linear-gradient(350deg, rgba(42,136,200,1) 32%, rgba(179,153,100,1) 41%, rgba(242,237,218,1) 54%);
+    
     height: 100%;
     border-radius: 8px;
     overflow: hidden;
@@ -66,29 +65,28 @@
 
   .section h1 {
     color: #2A88C8;
+    margin: 10px;
   }
 
   .logo {
+    height: 8vh;
     width: auto;
-    height: 5vh;
-    margin-left: 2px;
-    margin-right: 2px;
-    border-radius: 50px;
-    padding: 3px;
-    border: 1px solid #80B7DC;
+    margin: 10px;
+    padding: 5px;
 
   }
 
   #site-logo {
-    width: 14vw;
-    height: auto;
+    height: 8vh;
+    width: auto;  
     background-color: #ffffff;
-    border: #ffffff, 3px;
+    border-color: #ffffff;
+    border-radius: 20px;
   }
 
   .profile {
     text-align: center;
-    padding: 20px;
+    padding: 10px;
   }
 
   .profile-image {
@@ -101,11 +99,12 @@
   .content {
     text-align: center;
     font-size: 5vw;
-    padding: 20px;
+    padding: 10px;
   }
 
   .content h2 {
     margin: 10px 0;
+    color: #2A88C8;
   }
 
   a {
@@ -113,28 +112,32 @@
   }
 
   a:link {
-    color: #ffffff;
+    color: #2A88C8;
   }
 
   a:visited {
-    color: #ffffff;
+    color: #2A88C8;
   }
 
   a:hover {
-    color: #ffffff;
+    color: #2A88C8;
   }
 
   .phone-button {
-    background-color: #ffffff;
-    color: #006FBA !;
-    border: none;
-    border-radius: 40px;
-    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
-    margin: 10px;
     padding: 10px 20px;
-    font-size: 16px;
-    border-collapse: separate;
-    border: 1px solid #80B7DC;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.5);
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    /* Larger text to make it easier to read on mobile */
+    border: none;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    color: white;
+    width: 80%;
+    transition: background-color 0.3s ease;
   }
 
   #phone-text {
