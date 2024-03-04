@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Zabel Bedikyan
+N:Bedikyan;Zabel;;;
+EMAIL;TYPE=INTERNET:anita.zaharieva@patricia.bg
+item1.TEL:359882331600
+item1.X-ABLabel:workMobile
+item2.ORG:Академия Патриция;;Бул. Сливница 164 \, София\, България
+item2.X-ABLabel:
+item3.TITLE:Координатор
+item3.X-ABLabel:
+CATEGORIES:Imported on 01/03,myContacts
+END:VCARD
